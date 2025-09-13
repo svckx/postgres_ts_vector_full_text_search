@@ -1,2 +1,2 @@
-# postgres_ts_vector_full_text_search
-Example microservice for spring boot and ts vector search with postgres
+# hibernate-search-v1
+Example microservice for spring boot and hibernate search with postgres
